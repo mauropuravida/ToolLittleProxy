@@ -1,0 +1,11 @@
+[submodule "LittleProxy"]
+	path = LittleProxy
+	url = https://github.com/ganskef/LittleProxy
+	branch = enable_offline_caching_with_mitm
+[submodule "LittleProxy-mitm"]
+	path = LittleProxy-mitm
+	url = https://github.com/ganskef/LittleProxy-mitm
+	branch = enable_offline_caching_with_mitm
+[submodule "jss"]
+	path = jss
+	url = https://github.com/dogtagpki/jss
